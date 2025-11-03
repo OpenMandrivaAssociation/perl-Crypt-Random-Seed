@@ -10,6 +10,7 @@ Source:		https://cpan.org/modules/by-module/Crypt/%{module}-%{version}.tar.gz
 License:	Perl (Artistic or GPL)
 Group:		Development/Perl
 BuildRequires:	perl
+BuildRequires:	perlExtUtils::MakeMaker)
 BuildArch:	noarch
 
 %description
